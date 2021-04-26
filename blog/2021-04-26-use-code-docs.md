@@ -8,9 +8,9 @@ author_image_url: https://s3.ax1x.com/2021/02/26/6SEr4g.jpg
 tags: [hello, chuyaoyuan]
 ---
 
-Welcome to this site. This site is created .
-欢迎来到这里。code-docs
-
+Welcome to this site. 
+这是一篇关于如何创建文档的博客。[开始阅读](http://docs.yaoyuan.io/blog/use-code-docs)
+<!--truncate-->
 ### 使用
 
 1.  [Git](https://git-scm.com/downloads)_.Git安装

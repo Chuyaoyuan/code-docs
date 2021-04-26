@@ -43,7 +43,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '文档',
           items: [
             {
               label: 'CodeDocs',
@@ -52,7 +52,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: '第三方链接',
           items: [
             {
               label: 'Stack Overflow',
@@ -69,20 +69,20 @@ module.exports = {
           ],
         },
         {
-          title: 'Development team ',
+          title: '开发团队',
           items: [
             {
               label: 'chuyaoyuan',
-              href: 'https://github.com/chuyaoyuan/code-docs',
+              href: 'https://github.com/chuyaoyuan/',
             },
             {
               label: 'zhangbohou',
-              href: 'https://github.com/chuyaoyuan/code-docs',
+              href: 'https://github.com/BohouZhang',
             },
           ],
         },
         {
-          title: 'More',
+          title: '更多',
           items: [
             {
               label: 'Blog',
@@ -95,7 +95,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Code Docs, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Code Docs, Inc. 一个懂你的编程文档网站.`,
     },
   },
   presets: [
