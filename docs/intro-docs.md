@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Code Docs 介绍
 
-Let's discover **Docusaurus in less than 5 minutes**.
+欢迎来到这里 ，  **Docusaurus in less than 1 minutes**.
 
 ## Getting Started
 
