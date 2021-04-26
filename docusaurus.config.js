@@ -69,6 +69,19 @@ module.exports = {
           ],
         },
         {
+          title: 'Development team ',
+          items: [
+            {
+              label: 'chuyaoyuan',
+              href: 'https://github.com/chuyaoyuan/code-docs',
+            },
+            {
+              label: 'zhangbohou',
+              href: 'https://github.com/chuyaoyuan/code-docs',
+            },
+          ],
+        },
+        {
           title: 'More',
           items: [
             {
