@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'CodeDocs 编程文档',
-  tagline: 'CodeDocs 编程文档 -- 这是一些技术人的编程文档',
+  tagline: 'CodeDocs 编程文档 -- 这里是一些技术人的编程文档',
   url: 'http://docs.yaoyuan.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -95,7 +95,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Code Docs, Inc. 一个懂你的编程文档网站.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Code Docs, Inc. 一些技术人的编程文档网站.`,
     },
   },
   presets: [
