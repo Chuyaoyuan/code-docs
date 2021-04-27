@@ -10,7 +10,7 @@
 </p>
 
 # 预览
-[![sykhy4.md.png](https://s3.ax1x.com/2021/01/17/sykhy4.md.png)](https://imgchr.com/i/sykhy4)
+[![sykhy4.md.png](https://z3.ax1x.com/2021/04/27/gpXhWR.png)](https://z3.ax1x.com/2021/04/27/gpXhWR.png)
 
 
 # 简介
