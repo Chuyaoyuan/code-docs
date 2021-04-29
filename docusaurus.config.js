@@ -14,6 +14,17 @@ module.exports = {
     locales: ['zh-cn','en'],
   },
   themeConfig: {
+    algolia: {
+      apiKey: '204335ce5ba2700fd04046b290498627',
+      indexName: 'code-docs',
+      // Optional: see doc section below
+      contextualSearch: true,
+      // Optional: see doc section below
+      appId: 'D8PEAPGLZ3',
+      // Optional: Algolia search parameters
+      searchParameters: {},
+      //... other Algolia params
+    },
     navbar: {
       title: 'CodeDocs 编程文档',
       logo: {

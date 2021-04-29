@@ -106,3 +106,5 @@ dist
 .docusaurus
 
 build
+
+.idea
